@@ -22,5 +22,4 @@ Export or share Power Bi Dashboard
 Insights from Dashboard
 Measures and Calculations in Power BI
 
-## DASHBOARD INTERACTION
-<a href="https://github.com/AmanPatwal12/Data_Analysis_Dashboard/blob/main/Screenshot%202024-09-29%20185637.png"></a>
+
