@@ -4,3 +4,4 @@ In-store data presents information about retail businesses' in-store activities 
 Data analytics is the science of analyzing raw data to make conclusions about that information. Data analytics help a business optimize its performance, perform more efficiently, maximize profit, or make strategically-guided decisions. They are primarily responsible for interpreting and analyzing vast datasets.
 Target women customers of the age group(30-49) years living in Maharashtra, Karnataka, and Uttar Pradesh by showing ads/offers/coupons Available on Amazon, Flipkart, and Myntra.
 
+<a href="https://github.com/AmanPatwal12/Data_Analysis_Dashboard/blob/main/store_sales%20(1).xlsx">Dataset</a>
